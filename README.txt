@@ -2,4 +2,6 @@
 
 If you want to use this code else where, such as VScode, then you must change "data = pd.read_csv('/kaggle/input/digit-recognizer/train.csv')" to respective folder that represents your chosen dataset. 
 
+Kaggle was used due to the high level of accessibility to several datasets, in this case the MNIST dataset.
+
 :=)
